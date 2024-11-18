@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**simboyz/simboyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer specializing in Enterprise Monitoring Solutions
+🔧 Tech: jQuery, Ext.JS, Node.js, Vanilla JavaScript
+📊 Expertise in real-time dashboard development
+🌟 7+ years of experience in performance optimization
 
-Here are some ideas to get you started:
+### Projects
+- Enterprise Monitoring Dashboard
+- Real-time Data Visualization
+- Performance Analysis Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)
