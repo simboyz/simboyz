@@ -1,26 +1,29 @@
 ### 👋 Hi, I'm @simboyz
 
-Fullstack Developer specializing in Fintech & Enterprise Solutions with deep expertise in Blockchain and AI integration.
+Fullstack Developer specializing in Building Energy Solutions, IoT, Fintech & Enterprise Solutions with deep expertise in Blockchain and AI integration.
 
 ### 🛠 Tech Stack
 - Frontend: React Native, jQuery, Ext.JS (Expert), HTML/CSS/JavaScript
 - Backend: Node.js, RESTful APIs, Real-time Processing
-- Blockchain: Cryptocurrency Exchange Development, Smart Contracts, Trading Systems
-- AI/ML: LLM Integration, AI Application Development
+- IoT & Energy: Building Energy Management Systems, IoT Device Integration
+- Blockchain: Cryptocurrency Exchange Development, Smart Contracts
+- AI/ML: LLM Integration, AI Application Development 
 - Design: Photoshop, UI/UX Design
 
 ### 💼 Expertise Areas
+- Building Energy Management Solutions
+- IoT System Architecture & Integration
 - Cross-platform Development (Web & Mobile)
 - Enterprise Monitoring & Analytics
-- Fintech Solutions & Payment Systems
-- Cryptocurrency Exchange Architecture
+- Fintech & Cryptocurrency Solutions
 - Real-time Data Processing & Visualization
 
 ### 🚀 Notable Projects
-- Cryptocurrency Trading Platform Development
-- Enterprise Monitoring Dashboard (Ext.JS)
+- Building Energy Management Dashboard
+- IoT Device Management Platform
+- Cryptocurrency Trading Platform
+- Enterprise Monitoring Solutions (Ext.JS)
 - Cross-platform Fintech Applications
-- AI-powered Analytics Solutions
 
 ### 📫 Connect with me
 - LinkedIn: [David Sim](https://www.linkedin.com/in/%ED%95%9C%EC%84%AD-%EC%8B%AC-997315339/)
