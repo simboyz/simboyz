@@ -14,7 +14,7 @@ Frontend Developer with expertise in Enterprise Monitoring Solutions and Data Vi
 - Performance Optimization
 
 ### 📫 Connect with me
-- LinkedIn: [심한성](your-linkedin-url)
+- LinkedIn: [David Sim]([your-linkedin-url](https://www.linkedin.com/in/%ED%95%9C%EC%84%AD-%EC%8B%AC-997315339/))
 - Blog: [https://blog.naver.com/simboyz](https://blog.naver.com/simboyz)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simboyz&show_icons=true&theme=default)
